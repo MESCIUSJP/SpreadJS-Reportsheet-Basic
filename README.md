@@ -1,5 +1,6 @@
 # SpreadJS-Reportsheet-Basic
 SpreadJSの帳票開発機能「レポートシート」で作成した帳票アプリケーションのサンプルです。
+（https://devlog.mescius.jp/spreadjs-reportsheet-basic-1-overview-and-simple-list/）
 
 ![preview-with-webapp](https://github.com/user-attachments/assets/ed185934-85a7-40f7-810d-3c2d7187d4d8)
 
