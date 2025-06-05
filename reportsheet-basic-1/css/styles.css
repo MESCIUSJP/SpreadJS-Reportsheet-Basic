@@ -1,0 +1,13 @@
+body {
+    width: 610px;
+}
+
+.show-area {
+    margin: 15px;
+    border: solid black;
+}
+
+#ss {
+    width: 575px;
+    height: 620px;
+}
